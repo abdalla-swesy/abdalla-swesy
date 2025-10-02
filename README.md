@@ -44,11 +44,12 @@
 
 ## 📊 GitHub Stats
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalla-swesy&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla-swesy&layout=compact&theme=radical) |
-| --- | --- |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalla-swesy&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla-swesy&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla-swesy&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdalla-swesy&theme=radical) |
-| --- |
 
 
 
