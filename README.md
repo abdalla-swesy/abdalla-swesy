@@ -42,15 +42,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalla-swesy&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api?username=abdalla-swesy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdalla-swesy&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla-swesy&theme=radical&hide_border=false&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla-swesy&layout=compact&theme=radical)
 
-</div>  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdalla-swesy&theme=radical)
+
 
 ---
 
